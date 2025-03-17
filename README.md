@@ -1,2 +1,2 @@
-# leekcode
-LeekCode challenge 
+# leetcode
+LeetCode challenge 
